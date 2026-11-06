@@ -6,7 +6,7 @@ Repository: [https://github.com/raiffaza/Indonesian-Daily-Weather-Prediction-EDA
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 * **Domain:** Climate & Weather Analysis (Indonesia)
 * **Objective:** Clean and analyze historical meteorological data, and train a regression model to forecast daily temperature metrics.
 * **Algorithm:** CatBoost Regressor
@@ -15,7 +15,7 @@ Repository: [https://github.com/raiffaza/Indonesian-Daily-Weather-Prediction-EDA
 
 ---
 
-## 📊 Dataset
+## Dataset
 The project utilizes `idn_weather_daily.csv`, containing **303,645 records** and **14 features** across 29 Indonesian provinces[cite: 2]:
 * **Geographical:** `city`, `province` (29 provinces), `island`[cite: 2]
 * **Temporal:** `date` (Historical daily observations from the year 2000 onwards)[cite: 2]
@@ -25,7 +25,7 @@ The project utilizes `idn_weather_daily.csv`, containing **303,645 records** and
 
 ---
 
-## 🛠️ Repository Structure
+## Repository Structure
 ```text
 Indonesian-Daily-Weather-Prediction-EDA/
 ├── idn_weather_daily.csv.gz          # Raw daily climate dataset
